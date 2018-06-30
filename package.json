@@ -1,0 +1,19 @@
+{
+  "name": "delta-finder",
+  "version": "1.0.0",
+  "description": "Given an angle and length, determine the deltaX and deltaY",
+  "keywords": [
+    "angle",
+    "trigonometry",
+    "delta",
+    "hypotenuse",
+    "degrees",
+    "radians"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erik P. Hansen",
+  "license": "ISC"
+}
